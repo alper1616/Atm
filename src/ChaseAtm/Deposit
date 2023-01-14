@@ -1,0 +1,4 @@
+package ChaseAtm ; 
+public class Deposit {
+// we added deposit 10 $ 
+}
